@@ -10,9 +10,9 @@ For windows machine for these setps to run kafka server navigate to C:\kafka_2.1
 
  STARTING SERVERS
  
-  .\zookeeper-server-start.bat C:\kafka_2.13-3.1.0\config\zookeeper.properties
+  .\zookeeper-server-start.bat  C:\kafka_2.13-3.1.0\config\zookeeper.properties
 
-  .\kafka-server-start.bat C:\kafka_2.13-3.1.0\config\server.properties
+  .\kafka-server-start.bat  C:\kafka_2.13-3.1.0\config\server.properties
 
 CREATE TOPIC
 
