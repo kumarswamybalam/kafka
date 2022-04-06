@@ -6,7 +6,7 @@ Copy the extracted  kafka_2.13-3.1.0 folder to your c:\ drive.
 
 Follow these steps to intiate Kafka on your machine ( https://kafka.apache.org/quickstart )
 
-For windows machine for these setps to run kafka server navigate to C:\kafka_2.13-3.1.0\bin and execute below commands
+For windows machine for these setps to run kafka server navigate to C:\kafka_2.13-3.1.0\bin\windows and execute below commands
 
  STARTING SERVERS
  
